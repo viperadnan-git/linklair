@@ -1,3 +1,5 @@
 package-lock.json
 web/package-lock.json
 *node_modules/*
+web/build
+config.js
